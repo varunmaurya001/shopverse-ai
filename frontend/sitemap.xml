@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://shopverse.ai/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://shopverse.ai/search</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!--
+    Product/category URLs belong here once the SSR follow-up (see the SEO
+    note in index.html <head>) generates a real per-product route — a
+    client-only SPA route like "#/product/p1" isn't a crawlable URL and
+    shouldn't be listed until then.
+  -->
+</urlset>
